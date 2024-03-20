@@ -4,5 +4,6 @@
     "/content/wknd-xwalk/metadata.json:/metadata.json",
     "/content/wknd-xwalk/redirects.json:/redirects.json"
     "/content/<crosswalk-demo>/:/"
+    "/content/<wknd-with-edge-delivery-services-template>/:/"
   ]
 }
